@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Assigns the right lead-magnet form per lane: sample/trial, one step of a process, one problem of many (audit/checklist), tool/software, or information.",
+  "keywords": [
+    "kairos",
+    "magnet",
+    "mapper",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-magnet-mapper",
+  "repository": "https://github.com/baselam88/kairos-magnet-mapper-plugin",
+  "version": "0.1.0"
+}
